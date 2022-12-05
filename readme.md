@@ -1,0 +1,2 @@
+A fun little exercise on binearySeachTree.
+Here I learned about BFS(Breadth First Search) and DFS(Depth First Search). It was really fun to build this small exercise from scratch. And I learned a lot about bineary Search Trees.
